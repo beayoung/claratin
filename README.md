@@ -14,7 +14,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/claratin.git
+    git clone https://github.com/beayoung/claratin.git
     cd claratin
     ```
 
